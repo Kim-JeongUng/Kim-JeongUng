@@ -1,22 +1,23 @@
-- 👋 Hi, I’m @Kim-JeongUng
-24, Male, Korea. Chun-Cheon, Hallym Univ.
+- 👋 Hi, I’m @Kim-JeongUng<br>
+24, Male, Korea. Chun-Cheon, Hallym Univ.<br>
 Check out more work on my YouTube : https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ
+<br><br><br>
+- 👀 I’m interested in ...<br>
+Unity 3D<br>
+Arduino<br>
+3D printings<br>
+Drone<br><br><br>
 
-- 👀 I’m interested in ...
-Unity 3D
-Arduino
-3D printings
+- 🌱 I’m currently learning ...<br>
+python<br>
+C++<br>
+C#<br>
+C<br><br><br>
 
-- 🌱 I’m currently learning ...
-python
-C++
-C#
-C
+- 💞️ I’m looking to collaborate on ...<br><br><br>
 
-- 💞️ I’m looking to collaborate on ...
-
-- 📫 How to reach me ...
-Instagram : K_jeongung
+- 📫 How to reach me ...<br>
+Instagram : K_jeongung<br><br><br>
 
 <!---
 Kim-JeongUng/Kim-JeongUng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kim-JeongUng<br>
 24, Male, Korea. Chun-Cheon, Hallym Univ.<br>
-Check out more work on my YouTube : https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ
+Check out more work on my YouTube : https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ   
+Instagram [@develop.ung](https://www.instagram.com/develop.ung/ "Instagram") 
 <br><br><br>
 - 👀 I’m interested in ...<br>
 Unity 3D<br>

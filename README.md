@@ -19,6 +19,31 @@ Drone<br>**
 
 - 📄 Know about my experiences [https://github.com/Kim-JeongUng/resume](https://github.com/Kim-JeongUng/resume)
 
+<h3>Experiences:</h3>
+
+- **Samsung MRS(삼성전자 모바일 리테일 서포터즈)** *2020.07 ~ 2020.09* 
+    - **Short-term jobs.**
+        - Visiting stores and guiding the features and policies of newly launched smartphones.
+
+- **Medical Genetic Lab(의학 유전학 연구실)** *2021.02 ~ current*
+    - **Lab Intern**
+        - Data server management.
+        - Data search.
+        
+- **Makerspace FabLab Ganwon(메이커스페이스 팹랩 강원)** *2021.02 ~ current*
+    - **Lab Intern**
+        - Maintenance of 3D printer.
+        - Making a class kit. 
+        - 3D printing
+        - Arduino
+        - Drone
+
+- **Other Short-tern jobs**
+  - 한림대학교 앱 개발 보조강사 (2018.07 ~ 2018.08) 
+  - 춘천 문화재단 아두이노 강사 (2021.07 ~ 2021.09)
+  - 원주 북원여고 3D 프린팅 강사 (2021.09)
+
+
 <h3 align="left">My Youtube channel:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/ucx_ssgbfjpwpae2nazzkkpq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ/videos" height="30" width="40" />김정웅</a> 

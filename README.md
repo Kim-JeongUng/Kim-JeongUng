@@ -30,7 +30,7 @@ Drone<br>**
         - Data server management.
         - Data search.
         
-- **Makerspace FabLab Ganwon(메이커스페이스 팹랩 강원)** *2021.02 ~ current*
+- **Makerspace FabLab Gangwon(메이커스페이스 팹랩 강원)** *2021.02 ~ current*
     - **Lab Intern**
         - Maintenance of 3D printer.
         - Making a class kit. 
@@ -38,7 +38,7 @@ Drone<br>**
         - Arduino
         - Drone
 
-- **Other Short-tern jobs**
+- **Other Short-term jobs**
   - 한림대학교 앱 개발 보조강사 (2018.07 ~ 2018.08) 
   - 춘천 문화재단 아두이노 강사 (2021.07 ~ 2021.09)
   - 원주 북원여고 3D 프린팅 강사 (2021.09)

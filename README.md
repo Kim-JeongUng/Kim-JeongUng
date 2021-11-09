@@ -46,7 +46,7 @@ Drone<br>**
 
 <h3 align="left">My Youtube channel:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/ucx_ssgbfjpwpae2nazzkkpq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ/videos" height="30" width="40" />김정웅</a> 
+<a href="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ/videos" height="30" width="40" />김정웅</a> 
 </p>
 <h3 align="left">My Dev instagram:</h3>
 <p>

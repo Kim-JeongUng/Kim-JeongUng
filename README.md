@@ -9,6 +9,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 - 🔭 I’m currently working on [Corona_korea_keep-distance](https://github.com/Kim-JeongUng/Corona_korea_keep-distance)
 - 👀 I’m interested in ...<br>
 **Unity 3D<br>
+VR/AR<br>
 Arduino<br>
 3D printings<br>
 Drone<br>**
@@ -25,12 +26,12 @@ Drone<br>**
     - **Short-term jobs.**
         - Visiting stores and guiding the features and policies of newly launched smartphones.
 
-- **Medical Genetic Lab(의학 유전학 연구실)** *2021.02 ~ current*
+- **Medical Genetic Lab(의학 유전학 연구실)** *2021.01 ~ current*
     - **Lab Intern**
         - Data server management.
         - Data search.
         
-- **Makerspace FabLab Gangwon(메이커스페이스 팹랩 강원)** *2021.02 ~ current*
+- **Makerspace FabLab Gangwon(메이커스페이스 팹랩 강원)** *2021.01 ~ current*
     - **Lab Intern**
         - Maintenance of 3D printer.
         - Making a class kit. 

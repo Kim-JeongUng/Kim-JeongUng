@@ -7,6 +7,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 <h3 align="center">I'm a growing backend developer from Korea</h3>
 
 - 🔭 I’m currently working on [Corona_korea_keep-distance](https://github.com/Kim-JeongUng/Corona_korea_keep-distance)
+- 🔭 I’m currently working on [AR_TFT_LolChess](https://github.com/Kim-JeongUng/AR_TFT_LolChess)
 - 👀 I’m interested in ...<br>
 **Unity 3D<br>
 VR/AR<br>
@@ -18,7 +19,7 @@ Drone<br>**
 
 - 📫 How to reach me **kju7859@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Kim-JeongUng/resume](https://github.com/Kim-JeongUng/resume)
+- 📄 Know about my experiences [https://github.com/Kim-JeongUng/portfolio](https://github.com/Kim-JeongUng/portfolio)
 
 <h3>Experiences:</h3>
 

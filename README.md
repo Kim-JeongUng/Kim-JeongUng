@@ -19,7 +19,7 @@ Drone<br>**
 
 - 📫 How to reach me **kju7859@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Kim-JeongUng/portfolio](https://github.com/Kim-JeongUng/portfolio)
+- 📄 Know about my experiences [portfolio](https://github.com/Kim-JeongUng/portfolio/blob/Unity/%EA%B9%80%EC%A0%95%EC%9B%85_%EA%B2%8C%EC%9E%84%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 <h3>Experiences:</h3>
 

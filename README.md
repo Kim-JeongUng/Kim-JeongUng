@@ -6,7 +6,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 <h1 align="center">Hi 👋, I'm Jungung Kim</h1>
 <h3 align="center">I'm a growing backend developer from Korea</h3>
 
-- 🔭 I’m currently working on [Corona_korea_keep-distance](https://github.com/Kim-JeongUng/Corona_korea_keep-distance)
+- 🔭 I’m currently working on [CandyCrane](https://github.com/Kim-JeongUng/Unity_2D_CandyCrane)
 - 🔭 I’m currently working on [AR_TFT_LolChess](https://github.com/Kim-JeongUng/AR_TFT_LolChess)
 - 👀 I’m interested in ...<br>
 **Unity 3D<br>
@@ -32,7 +32,7 @@ Drone<br>**
         - Data server management.
         - Data search.
         
-- **Makerspace FabLab Gangwon(메이커스페이스 팹랩 강원)** *2021.01 ~ *
+- **Makerspace FabLab Gangwon(메이커스페이스 팹랩 강원)** *2021.01 ~ current*
     - **Lab Intern**
         - Maintenance of 3D printer.
         - Making a class kit. 

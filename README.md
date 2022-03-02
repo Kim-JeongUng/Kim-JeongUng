@@ -23,6 +23,10 @@ Drone<br>**
 
 <h3>Experiences:</h3>
 
+- **ICT Intern ship** *2022.03 ~ current* 
+    - **newto**
+        - 메타버스 사업 개발
+    
 - **Samsung MRS(삼성전자 모바일 리테일 서포터즈)** *2020.07 ~ 2020.09* 
     - **Short-term jobs.**
         - Visiting stores and guiding the features and policies of newly launched smartphones.
@@ -32,7 +36,7 @@ Drone<br>**
         - Data server management.
         - Data search.
         
-- **Makerspace FabLab Gangwon(메이커스페이스 팹랩 강원)** *2021.01 ~ current*
+- **Makerspace FabLab Gangwon(메이커스페이스 팹랩 강원)** *2021.01 ~ 2022.02*
     - **Lab Intern**
         - Maintenance of 3D printer.
         - Making a class kit. 

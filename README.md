@@ -23,8 +23,8 @@ Drone<br>**
 
 <h3>Experiences:</h3>
 
-- **ICT Intern ship** *2022.03 ~ current* 
-    - **newto**
+- **Newto** *2022.03 ~ current* 
+    - **ICT Intern ship**
         - 메타버스 사업 개발
     
 - **Samsung MRS(삼성전자 모바일 리테일 서포터즈)** *2020.07 ~ 2020.09* 

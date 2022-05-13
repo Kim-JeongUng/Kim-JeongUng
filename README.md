@@ -4,38 +4,28 @@ You can click the Preview link to take a look at your changes.
 https://github.com/rahuldkjain/github-profile-readme-generator
 --->
 <h1 align="center">Hi 👋, I'm Jungung Kim</h1>
-<h3 align="center">I'm a growing backend developer from Korea</h3>
+<h3 align="center">I'm a growing Game developer from Korea</h3>
 
-- 🔭 I’m currently working on [CandyCrane](https://github.com/Kim-JeongUng/Unity_2D_CandyCrane)
-- 🔭 I’m currently working on [AR_TFT_LolChess](https://github.com/Kim-JeongUng/AR_TFT_LolChess)
+- 📄 Know about my experiences [[Portfolio]](https://github.com/Kim-JeongUng/portfolio/blob/Unity/%EA%B9%80%EC%A0%95%EC%9B%85_%EC%9C%A0%EB%8B%88%ED%8B%B0%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+
+- 🌱 I am currently working as a game developer intern at Newto.<br>
 - 👀 I’m interested in ...<br>
 **Unity 3D<br>
+MotionCapture<br>
 VR/AR<br>
 Arduino<br>
 3D printings<br>
 Drone<br>**
-- 🌱 I’m currently learning    
- **Game develop<br>Text Mining<br>    Crawling<br>    Use API<br>**
 
 - 📫 How to reach me **kju7859@gmail.com**
 
-- 📄 Know about my experiences [portfolio](https://github.com/Kim-JeongUng/portfolio/blob/Unity/%EA%B9%80%EC%A0%95%EC%9B%85_%EC%9C%A0%EB%8B%88%ED%8B%B0%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
-
 <h3>Experiences:</h3>
 
-- **Newto** *2022.03 ~ current* 
+- **Newto(주식회사 뉴토)** *2022.03 ~ current* 
     - **ICT Intern ship**
-        - 메타버스 사업 개발
+        - 신한지주 * KTds 메타버스 게임플랫폼 개발진행
+        - 실시간 모션 캡쳐 개발진행
     
-- **Samsung MRS(삼성전자 모바일 리테일 서포터즈)** *2020.07 ~ 2020.09* 
-    - **Short-term jobs.**
-        - Visiting stores and guiding the features and policies of newly launched smartphones.
-
-- **Medical Genetic Lab(의학 유전학 연구실)** *2021.01 ~ 2021.12*
-    - **Lab Intern**
-        - Data server management.
-        - Data search.
-        
 - **Makerspace FabLab Gangwon(메이커스페이스 팹랩 강원)** *2021.01 ~ 2022.02*
     - **Lab Intern**
         - Maintenance of 3D printer.
@@ -43,6 +33,15 @@ Drone<br>**
         - 3D printing
         - Arduino
         - Drone
+        
+- **Medical Genetic Lab(의학 유전학 연구실)** *2021.01 ~ 2021.12*
+    - **Lab Intern**
+        - Data server management.
+        - Data search.
+
+- **Samsung MRS(삼성전자 모바일 리테일 서포터즈)** *2020.07 ~ 2020.09* 
+    - **Short-term jobs.**
+        - Visiting stores and guiding the features and policies of newly launched smartphones.
 
 - **Other Short-term jobs**
   - 한림대학교 앱 개발 보조강사 (2018.07 ~ 2018.08) 

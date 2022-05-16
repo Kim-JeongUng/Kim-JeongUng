@@ -6,6 +6,10 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 <h1 align="center">Hi 👋, I'm Jungung Kim</h1>
 <h3 align="center">I'm a growing Game developer from Korea</h3>
 
+- 🔭 currently working Public Project [[Zepeto MotionCapture]](https://github.com/Kim-JeongUng/ZEPETO-Unity-Barracuda-MotionCapture)<br>
+
+- 🔭 currently working Private Project [[Inside]](https://early-gum-3f7.notion.site/Inside-ccdc0eb640684cefbdd2287f93009fff)<br>
+
 - 📄 Know about my experiences [[Portfolio]](https://github.com/Kim-JeongUng/portfolio/blob/Unity/%EA%B9%80%EC%A0%95%EC%9B%85_%EC%9C%A0%EB%8B%88%ED%8B%B0%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 - 🌱 I am currently working as a game developer intern at Newto.<br>
@@ -23,7 +27,7 @@ Drone<br>**
 
 - **Newto(주식회사 뉴토)** *2022.03 ~ current* 
     - **ICT Intern ship**
-        - 신한지주 * KTds 메타버스 게임플랫폼 개발진행
+        - 신한지주 * KTds 메타버스 게임플랫폼 Inside 개발진행
         - 실시간 모션 캡쳐 개발진행
     
 - **Makerspace FabLab Gangwon(메이커스페이스 팹랩 강원)** *2021.01 ~ 2022.02*

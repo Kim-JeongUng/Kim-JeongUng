@@ -11,9 +11,10 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 - <a href="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ/videos" height="30" width="40" /></a> [DEV Youtube](https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ)
 </p>
 
-- 🔭 currently working Public Project [[Zepeto MotionCapture]](https://github.com/Kim-JeongUng/ZEPETO-Unity-Barracuda-MotionCapture)<br>
+- 🔭 currently working Public Project [[Duplication-hero]](https://github.com/Kim-JeongUng/Duplication-hero)<br>
 
 - 🔭 currently working Private Project [[Inside]](https://early-gum-3f7.notion.site/Inside-ccdc0eb640684cefbdd2287f93009fff)<br>
+- 🔭 currently working Private Project [[MotionCapture]](https://www.youtube.com/watch?v=v4HjrIPj0dk)<br>
 
 - 📄 Know about my experiences [[Portfolio]](https://github.com/Kim-JeongUng/portfolio/blob/Unity/%EA%B9%80%EC%A0%95%EC%9B%85_%EC%9C%A0%EB%8B%88%ED%8B%B0%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 

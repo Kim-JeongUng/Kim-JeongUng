@@ -30,7 +30,7 @@ Drone<br>**
 
 <h3>Experiences:</h3>
 
-- **Newto(주식회사 뉴토)** *2022.03 ~ current(until 2022.06.30)* 
+- **Newto(주식회사 뉴토)** *2022.03 ~ current* 
     - **ICT Intern ship**
         - 신한지주 * KTds 메타버스 게임플랫폼 Inside 개발진행
         - 실시간 모션 캡쳐 개발진행

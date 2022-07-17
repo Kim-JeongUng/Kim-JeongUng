@@ -4,20 +4,21 @@ You can click the Preview link to take a look at your changes.
 https://github.com/rahuldkjain/github-profile-readme-generator
 --->
 <h1 align="center">Hi 👋, I'm Jungung Kim</h1>
-<h3 align="center">I'm a growing Unity developer from Korea</h3>
+<h3 align="center">I'm a growing Game developer from Korea</h3>
 
 <p>
     
 - <a href="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ/videos" height="30" width="40" /></a> [DEV Youtube](https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ)
 </p>
 
-- 🔭 currently working Public Project [[Duplication-hero]](https://github.com/Kim-JeongUng/Duplication-hero)<br>
+- 🔭 Currently working Public Project [[Duplication-hero]](https://github.com/Kim-JeongUng/Duplication-hero)<br>
 
-- 🔭 currently working Private Project [[Inside]](https://early-gum-3f7.notion.site/Inside-ccdc0eb640684cefbdd2287f93009fff)<br>
-- 🔭 currently working Private Project [[MotionCapture]](https://www.youtube.com/watch?v=v4HjrIPj0dk)<br>
+- 🔭 Currently working Private Project [[Inside]](https://early-gum-3f7.notion.site/Inside-ccdc0eb640684cefbdd2287f93009fff)<br>
+- 🔭 Currently working Private Project [[MotionCapture]](https://www.youtube.com/watch?v=v4HjrIPj0dk)<br>
 
 - 📄 Know about my experiences [[Portfolio]](https://github.com/Kim-JeongUng/portfolio/blob/Unity/%EA%B9%80%EC%A0%95%EC%9B%85_%EC%9C%A0%EB%8B%88%ED%8B%B0%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
+<!---
 - 👀 I’m interested in ...<br>
 **Unity 3D<br>
 MotionCapture<br>
@@ -63,3 +64,5 @@ Drone<br>**
 <h3 align="left">Confident Tools:</h3>
 <p align="left"> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>   </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 <br>
+
+--->

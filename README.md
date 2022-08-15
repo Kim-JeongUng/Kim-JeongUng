@@ -16,7 +16,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 - 🔭 Currently working Private Project [[Inside]](https://inside.true-bear.com)<br>
 - 🔭 Currently working Private Project [[MotionCapture]](https://www.youtube.com/watch?v=v4HjrIPj0dk)<br>
 
-- 📄 Know about my experiences [[Portfolio]](https://github.com/Kim-JeongUng/portfolio/blob/Unity/%EA%B9%80%EC%A0%95%EC%9B%85_%EC%9C%A0%EB%8B%88%ED%8B%B0%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+- 📄 Know about my experiences [[Portfolio]](https://www.notion.so/jeong-unitygames/eb2614c94c6b48c8be6b0098ffcd93ff)
 
 <!---
 - 👀 I’m interested in ...<br>

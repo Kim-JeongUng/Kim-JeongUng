@@ -11,12 +11,9 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 - <a href="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ/videos" height="30" width="40" /></a> [DEV Youtube](https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ)
 </p>
 
-- 🔭 Currently working Public Project [[Duplication-hero]](https://github.com/Kim-JeongUng/Duplication-hero)<br>
-
-- 🔭 Currently working Private Project [[Inside]](https://inside.true-bear.com)<br>
-- 🔭 Currently working Private Project [[MotionCapture]](https://www.youtube.com/watch?v=v4HjrIPj0dk)<br>
-
 - 📄 Know about my experiences [[Portfolio]](https://www.notion.so/jeong-unitygames/eb2614c94c6b48c8be6b0098ffcd93ff)
+
+- 📫 How to reach me **kju7859@gmail.com**
 
 <!---
 - 👀 I’m interested in ...<br>
@@ -26,9 +23,6 @@ VR/AR<br>
 Arduino<br>
 3D printings<br>
 Drone<br>**
-
-- 📫 How to reach me **kju7859@gmail.com**
-
 <h3>Experiences:</h3>
 
 - **Newto(주식회사 뉴토)** *2022.03 ~ current* 

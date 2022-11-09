@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 https://github.com/rahuldkjain/github-profile-readme-generator
 --->
 <h1 align="center">Hi 👋, I'm Jungung Kim</h1>
+<h3 align="center">Work on Zepeto at NAVER Z</h3>
 <h3 align="center">I'm a growing Game developer from Korea</h3>
 
 <p>

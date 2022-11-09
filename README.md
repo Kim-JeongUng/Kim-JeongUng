@@ -4,13 +4,11 @@ You can click the Preview link to take a look at your changes.
 https://github.com/rahuldkjain/github-profile-readme-generator
 --->
 <h1 align="center">Hi 👋, I'm Jungung Kim</h1>
-<h3 align="center">Work on Zepeto at NAVER Z</h3>
 <h3 align="center">I'm a growing Game developer from Korea</h3>
 
-<p>
-    
 - <a href="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ/videos" height="30" width="40" /></a> [DEV Youtube](https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ)
-</p>
+
+- 🏢 Now Work on ZEPETO at NAVER Z
 
 - 📄 Know about my experiences [[Portfolio]](https://www.notion.so/jeong-unitygames/eb2614c94c6b48c8be6b0098ffcd93ff)
 

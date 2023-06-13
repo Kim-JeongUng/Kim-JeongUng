@@ -8,7 +8,6 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 
 - <a href="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ/videos" height="30" width="40" /></a> [DEV Youtube](https://www.youtube.com/channel/UCX_SsgBfjPwpae2naZzkKpQ)
 
-- 📄 Know about my experiences [[Portfolio]](https://www.notion.so/jeong-unitygames/eb2614c94c6b48c8be6b0098ffcd93ff)
 
 - 📫 How to reach me **kju7859@gmail.com**
 
